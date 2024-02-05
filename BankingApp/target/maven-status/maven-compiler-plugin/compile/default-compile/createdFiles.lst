@@ -1,0 +1,5 @@
+com\montronics\BankingApp\repository\AccountRepository.class
+com\montronics\BankingApp\BankingAppApplication.class
+com\montronics\BankingApp\entity\Account.class
+com\montronics\BankingApp\controller\AccountController.class
+com\montronics\BankingApp\service\AccountService.class
